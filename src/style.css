@@ -23,7 +23,9 @@ header a {
   font-size: 0.9em;
   color: whitesmoke;
 }
-
+html{
+  scroll-behavior: smooth;
+}
 .dropdown-content {
   display: none;
   position: absolute;
