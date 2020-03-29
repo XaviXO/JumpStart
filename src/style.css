@@ -360,8 +360,9 @@ footer .column i {
 
 /* It is Adjacent sibling combinator */
 
-footer .column i + i {
+footer .column a + i {
   padding: 0 0.5em;
+  cursor: pointer;
 }
 
 .sticky {
